@@ -1,0 +1,11 @@
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Teste\VS3.Teste\obj\Debug\VS3.Teste.csprojResolveAssemblyReference.cache
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Teste\VS3.Teste\bin\Debug\VS3.Teste.dll
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Teste\VS3.Teste\bin\Debug\VS3.Teste.pdb
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Teste\VS3.Teste\bin\Debug\VS3.AD.dll
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Teste\VS3.Teste\bin\Debug\VS3.Model.dll
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Teste\VS3.Teste\bin\Debug\VS3.NG.dll
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Teste\VS3.Teste\bin\Debug\VS3.AD.pdb
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Teste\VS3.Teste\bin\Debug\VS3.Model.pdb
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Teste\VS3.Teste\bin\Debug\VS3.NG.pdb
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Teste\VS3.Teste\obj\Debug\VS3.Teste.dll
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Teste\VS3.Teste\obj\Debug\VS3.Teste.pdb
