@@ -1,0 +1,7 @@
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.NG\VS3.NG\bin\Debug\VS3.NG.dll
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.NG\VS3.NG\bin\Debug\VS3.NG.pdb
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.NG\VS3.NG\bin\Debug\VS3.AD.dll
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.NG\VS3.NG\bin\Debug\VS3.AD.pdb
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.NG\VS3.NG\obj\Debug\VS3.NG.csprojResolveAssemblyReference.cache
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.NG\VS3.NG\obj\Debug\VS3.NG.dll
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.NG\VS3.NG\obj\Debug\VS3.NG.pdb

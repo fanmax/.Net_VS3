@@ -1,0 +1,5 @@
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.AD\VS3.AD\bin\Debug\VS3.AD.dll
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.AD\VS3.AD\bin\Debug\VS3.AD.pdb
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.AD\VS3.AD\obj\Debug\VS3.AD.dll
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.AD\VS3.AD\obj\Debug\VS3.AD.pdb
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.AD\VS3.AD\obj\Debug\VS3.AD.csprojResolveAssemblyReference.cache

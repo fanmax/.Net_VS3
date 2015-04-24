@@ -1,0 +1,10 @@
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Web\VS3.Web\bin\VS3.Web.dll.config
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Web\VS3.Web\bin\VS3.Web.dll
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Web\VS3.Web\bin\VS3.Web.pdb
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Web\VS3.Web\obj\Debug\VS3.Web.csprojResolveAssemblyReference.cache
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Web\VS3.Web\obj\Debug\VS3.Web.dll
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Web\VS3.Web\obj\Debug\VS3.Web.pdb
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Web\VS3.Web\bin\VS3.NG.dll
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Web\VS3.Web\bin\VS3.AD.dll
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Web\VS3.Web\bin\VS3.NG.pdb
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Web\VS3.Web\bin\VS3.AD.pdb

@@ -1,0 +1,4 @@
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Model\VS3.Model\bin\Debug\VS3.Model.dll
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Model\VS3.Model\bin\Debug\VS3.Model.pdb
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Model\VS3.Model\obj\Debug\VS3.Model.dll
+F:\Projetos\rodrigo\VisualStudio\VS3\VS3.Model\VS3.Model\obj\Debug\VS3.Model.pdb
